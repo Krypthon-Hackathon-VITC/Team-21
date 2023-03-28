@@ -10,7 +10,7 @@ Xpense is a personal finance management app designed to simplify and streamline 
 
 <img width="430" alt="Dashboard Dark" src="https://user-images.githubusercontent.com/93263117/228101760-1fe56c96-6f78-4aed-8784-41898a429edf.png">
 
-##Features of Xpense
+## Features of Xpense
 
 <img width="430" alt="Profile" src="https://user-images.githubusercontent.com/93263117/228101889-99d9386a-434a-402c-a730-52bc1eac7df7.png">
 (*Subject to completion. More features yet to add after round 1)
